@@ -1,0 +1,1 @@
+Run `composer install` before testing script.
