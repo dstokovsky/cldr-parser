@@ -1,0 +1,13 @@
+{
+    "name": "CLDR",
+    "description": "Test script that parses CLDR data.",
+    "authors": [
+        {
+            "name": "Denis Stokovsky",
+            "email": "dstokovsky@gmail.com"
+        }
+    ],
+    "require": {
+        "commerceguys/intl": "^0.7.1"
+    }
+}
